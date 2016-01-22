@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+body{
+  background-color: Light Grey;
+  padding-top: 70px;
+}
+
+#navbar{
+  background-color: ;
+}
+
+#navbarTitle {
+  font-family: Roboto Condensed
+    
+}
+#jumboTitle {
+  text-align: center;
+}
+#jumboSubtext{
+  text-align: center;
+}
+#about {
+  text-align: center;
+}
+#what-i-do{
+  text-align: center;
+}
+#projects {
+  text-align: center;
+}
+#contact {
+  text-align: center;
+}
